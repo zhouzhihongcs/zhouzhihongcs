@@ -1,0 +1,6 @@
+"LightDemo". The Access key is "12345678". 
+There you can navigate to http://192.168.4.1 to check on the current and temperature. "
+
+
+
+
